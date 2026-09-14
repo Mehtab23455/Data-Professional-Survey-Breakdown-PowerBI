@@ -5,6 +5,9 @@
 ### Overview
 This repository contains a Power BI dashboard that analyzes a comprehensive survey of data professionals. The visualizations provide key insights into demographics, average salaries by role, preferred programming languages, and overall career satisfaction. As shown in the dashboard screenshot (`image_bb90ab.png`), the report summarizes responses from 630 participants, helping viewers understand current trends, challenges, and preferences within the data industry.
 
+<img width="717" height="398" alt="image" src="https://github.com/user-attachments/assets/c686c2d3-4866-4bb4-aabf-087903ecb7c5" />
+
+
 ### Dashboard Features
 The Power BI report is organized into several key visual sections:
 
@@ -22,3 +25,5 @@ To view and interact with this dashboard locally:
 2.  Ensure you have **Microsoft Power BI Desktop** installed (available for free on Windows).
 3.  Open the `.pbix` file included in this repository.
 4.  Click on specific visualization elements (like "Python" or "Data Scientist") to cross-filter the report and uncover deeper insights.
+
+5.  
